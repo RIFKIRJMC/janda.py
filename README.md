@@ -1,0 +1,2 @@
+# janda.py
+Dilarang kerasss
